@@ -6,10 +6,9 @@
 
 #### Oracle Feed
 
->
-**Asset Type:** Server/Application instance
+> **Asset Type:** Server/Application instance
 
-**Asset Owner:** Maker Foundation (dissolved)
+> **Asset Owner:** Maker Foundation (dissolved)
 
 **Platform Manager:** Techops Core Unit (<contact@techops.services>)
 
