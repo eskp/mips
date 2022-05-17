@@ -7,23 +7,29 @@
 #### Oracle Feed
 
 > **Asset Type:** Server/Application instance
+>
 > **Asset Owner:** Maker Foundation (dissolved)
-
-**Platform Manager:** Techops Core Unit (<contact@techops.services>)
-
-**Content Manager:** Techops Core Unit (<contact@techops.services>)
-
-**Purpose:** Transfer Oracle infrastructure that is hosted by the DAO from its original owner and now dissolved Maker Foundation, to the new active owner and current Platform Manager - Techops Core Unit.
-
-**Last Modification:** The Foundation has owned the asset since its creation.
+>
+> **Platform Manager:** Techops Core Unit (<contact@techops.services>)
+>
+> **Content Manager:** Techops Core Unit (<contact@techops.services>)
+>
+> **Purpose:** Transfer Oracle infrastructure that is hosted by the DAO from its original owner and now dissolved Maker Foundation, to the new active owner and current Platform Manager - Techops Core Unit.
+>
+> **Last Modification:** The Foundation has owned the asset since its creation.
 
 #### Oracle Relayers x 4
 
 > **Asset Type:** Server/Application instance
+>
 > **Asset Owner:** Maker Foundation (dissolved)
+>
 > **Platform Manager:** Techops Core Unit (<contact@techops.services>)  
+>
 > **Content Manager:** Techops Core Unit (<contact@techops.services>)
+>
 > **Purpose:** Transfer Oracle infrastructure that is hosted by the DAO from its original owner and now dissolved Maker Foundation, to the new active owner and current Platform Manager - Techops Core Unit.
+>
 > **Last Modification:** The Foundation has owned the asset since its creation.
 
 ## Supporters
